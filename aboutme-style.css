@@ -1,0 +1,19 @@
+#list-shower{
+    list-style-type:square;
+    color: white;
+    
+}
+
+#courses{
+    color: crimson;
+}
+body{
+    background-color: dimgrey;
+    color: white;
+}
+h1{
+    color: darkblue;
+}
+p{
+    color: lightsalmon;
+}
